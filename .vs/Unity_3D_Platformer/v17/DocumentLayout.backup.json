@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "U:\\unity\\Unity_3D_Platformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|u:\\unity\\unity_3d_platformer\\assets\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|u:\\unity\\unity_3d_platformer\\assets\\scripts\\endless_scripts\\movingplatformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endless_scripts\\movingplatformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\endless_scripts\\playersidewaysmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endless_scripts\\playersidewaysmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\platformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|U:\\unity\\Unity_3D_Platformer\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB88FFE-3E54-EEE2-0DA2-C673A780E8B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\unity\\Unity_3D_Platformer\\Assets\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\unity\\Unity_3D_Platformer\\Assets\\Credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +46,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSidewaysMovement.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Endless_Scripts\\PlayerSidewaysMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Endless_Scripts\\PlayerSidewaysMovement.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Endless_Scripts\\PlayerSidewaysMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Endless_Scripts\\PlayerSidewaysMovement.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:12:15.909Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovingPlatformManager.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Endless_Scripts\\MovingPlatformManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Endless_Scripts\\MovingPlatformManager.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Endless_Scripts\\MovingPlatformManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Endless_Scripts\\MovingPlatformManager.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:05:50.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "score.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\score.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\score.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\score.cs",
+              "RelativeToolTip": "Assets\\Scripts\\score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:29:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:26:20.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformManager.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\PlatformManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformManager.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\PlatformManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwF0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T10:13:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameManager.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\gameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gameManager.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\gameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:57:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:09:19.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu.cs",
+              "ToolTip": "U:\\unity\\Unity_3D_Platformer\\Assets\\Menu.cs",
+              "RelativeToolTip": "Assets\\Menu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:36:17.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Credits.cs",
               "DocumentMoniker": "U:\\unity\\Unity_3D_Platformer\\Assets\\Credits.cs",
               "RelativeDocumentMoniker": "Assets\\Credits.cs",
@@ -26,8 +154,7 @@
               "RelativeToolTip": "Assets\\Credits.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T10:27:43.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T10:27:43.283Z"
             }
           ]
         }
