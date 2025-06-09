@@ -14,7 +14,7 @@ public class gameManager : MonoBehaviour
 
             Debug.Log("Game Over!");
             gameHasEnded = true;
-            Invoke("Restart", delay);
+            Invoke("goToMain", delay);
         }
 
     }
@@ -26,6 +26,10 @@ public class gameManager : MonoBehaviour
 
     }
 
+    private void goToMain()
+    {
+        SceneManager.LoadScene("Menu");
+    }
     public void CompleteLevel()
     {
         gameLevelObjet.SetActive(true);

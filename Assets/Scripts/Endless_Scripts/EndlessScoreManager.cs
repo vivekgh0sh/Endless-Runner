@@ -54,7 +54,7 @@ public class EndlessScoreManager : MonoBehaviour
         if (isScoring && platformManager != null && platformManager.worldSpeed > 0)
         {
             currentScore += platformManager.worldSpeed * scoreMultiplier * Time.deltaTime;
-            scoreText.text = "Score: " + Mathf.FloorToInt(currentScore).ToString();
+            scoreText.text = Mathf.FloorToInt(currentScore).ToString();
         }
     }
 
@@ -79,7 +79,7 @@ public class EndlessScoreManager : MonoBehaviour
     public void ResetScore()
     {
         currentScore = 0f;
-        if (scoreText != null) scoreText.text = "Score: 0";
+        if (scoreText != null) scoreText.text = "0";
     }
 
     public int GetFinalScore()
